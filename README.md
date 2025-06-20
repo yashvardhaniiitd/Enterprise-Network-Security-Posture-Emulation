@@ -23,7 +23,7 @@ This project was completed as part of the Network System Security II course. The
 - Explored and bypassed firewall deception
 
 ## How to Run
-- See [FINAL-REPORT-OF-NSS-PROJECT-1.pdf](FINAL-REPORT-OF-NSS-PROJECT-1.pdf) for full setup and attack details.
+- See [FINAL REPORT OF NSS PROJECT (1).pdf](/FINAL-REPORT-OF-NSS-PROJECT-(1).pdf) for full setup and attack details.
 - Scripts for mounting VM images and scanning are in `/scripts`.
 
 ## Lessons Learned
@@ -32,6 +32,6 @@ This project was completed as part of the Network System Security II course. The
 - Layered defense and monitoring are critical
 
 ## References
-- [Final Report (PDF)](FINAL-REPORT-OF-NSS-PROJECT-1.pdf)
+- [Final Report (PDF)](/FINAL-REPORT-OF-NSS-PROJECT-(1).pdf)
 - GeeksforGeeks: SSRF
 - Suricata documentation
